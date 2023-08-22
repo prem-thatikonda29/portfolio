@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+    font-size: 2rem;
+    height: 50px;
+}
+
+hr {
+    color: black;
+}
+
+p {
+    background-color: rgb(233, 213, 186);
+    font-size: 1rem;
+    color: #333;
+}
+
+ul {
+    text-align: center;
+    list-style: none;
+    font-size: 16px;
+    background-color: bisque;
+}
